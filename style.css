@@ -415,6 +415,11 @@ section .title::after{
     overflow: hidden;
     transition: all 0.3s ease;
 }
+
+.teams .carousel a{
+    color: inherit;
+    text-decoration: none;
+}
 .teams .carousel .card:hover{
     background: #E56927;
 }
